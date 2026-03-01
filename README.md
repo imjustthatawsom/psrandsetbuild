@@ -54,7 +54,7 @@ override getItem(
 	}
 
 
-I will include a video tutorial of this process at some point.
+Link to youtube tutorial: https://youtu.be/miCD6MCol7w
 
 --------------------------------------------------------------------------------------
 
