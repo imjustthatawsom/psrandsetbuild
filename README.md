@@ -1,3 +1,7 @@
+Update!
+CSV files are now updated to include the new megas and their abilities along with any other random moves that were missing. Up to date with pokemon showdown server as of 6/20/2026.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 SetGenerator:
 
 This has only been tested on Windows. The .exe only works on windows, so if you want to do this on another system, you'll need use the python code included.
