@@ -1,5 +1,7 @@
 Update!
 CSV files are now updated to include the new megas and their abilities along with any other random moves that were missing. Up to date with pokemon showdown server as of 6/20/2026.
+Also, github thinks this is a virus for me. But it works if I download every file individually... I get it if you don't trust that. Uhh, github, please tell me why this is being called a virus.
+It really shouldn't be...
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SetGenerator:
