@@ -1,0 +1,2034 @@
+{
+    "venusaur": {
+        "level": 84,
+        "sets": []
+    },
+    "charizard": {
+        "level": 85,
+        "sets": []
+    },
+    "blastoise": {
+        "level": 80,
+        "sets": []
+    },
+    "arbok": {
+        "level": 87,
+        "sets": []
+    },
+    "pikachu": {
+        "level": 93,
+        "sets": []
+    },
+    "raichu": {
+        "level": 88,
+        "sets": []
+    },
+    "raichualola": {
+        "level": 87,
+        "sets": []
+    },
+    "sandslash": {
+        "level": 89,
+        "sets": []
+    },
+    "sandslashalola": {
+        "level": 88,
+        "sets": []
+    },
+    "clefable": {
+        "level": 83,
+        "sets": []
+    },
+    "ninetales": {
+        "level": 85,
+        "sets": []
+    },
+    "ninetalesalola": {
+        "level": 78,
+        "sets": []
+    },
+    "wigglytuff": {
+        "level": 96,
+        "sets": []
+    },
+    "vileplume": {
+        "level": 85,
+        "sets": []
+    },
+    "venomoth": {
+        "level": 84,
+        "sets": []
+    },
+    "dugtrio": {
+        "level": 84,
+        "sets": []
+    },
+    "dugtrioalola": {
+        "level": 84,
+        "sets": []
+    },
+    "persian": {
+        "level": 92,
+        "sets": []
+    },
+    "persianalola": {
+        "level": 86,
+        "sets": []
+    },
+    "golduck": {
+        "level": 90,
+        "sets": []
+    },
+    "annihilape": {
+        "level": 76,
+        "sets": []
+    },
+    "arcanine": {
+        "level": 84,
+        "sets": []
+    },
+    "arcaninehisui": {
+        "level": 79,
+        "sets": []
+    },
+    "poliwrath": {
+        "level": 88,
+        "sets": []
+    },
+    "victreebel": {
+        "level": 90,
+        "sets": []
+    },
+    "tentacruel": {
+        "level": 84,
+        "sets": []
+    },
+    "golem": {
+        "level": 87,
+        "sets": []
+    },
+    "golemalola": {
+        "level": 93,
+        "sets": []
+    },
+    "slowbro": {
+        "level": 85,
+        "sets": []
+    },
+    "slowbrogalar": {
+        "level": 87,
+        "sets": []
+    },
+    "dodrio": {
+        "level": 85,
+        "sets": []
+    },
+    "dewgong": {
+        "level": 94,
+        "sets": []
+    },
+    "muk": {
+        "level": 86,
+        "sets": []
+    },
+    "mukalola": {
+        "level": 82,
+        "sets": []
+    },
+    "cloyster": {
+        "level": 80,
+        "sets": []
+    },
+    "gengar": {
+        "level": 81,
+        "sets": []
+    },
+    "hypno": {
+        "level": 95,
+        "sets": []
+    },
+    "electrode": {
+        "level": 92,
+        "sets": []
+    },
+    "electrodehisui": {
+        "level": 87,
+        "sets": []
+    },
+    "exeggutor": {
+        "level": 89,
+        "sets": []
+    },
+    "exeggutoralola": {
+        "level": 89,
+        "sets": []
+    },
+    "hitmonlee": {
+        "level": 85,
+        "sets": []
+    },
+    "hitmonchan": {
+        "level": 87,
+        "sets": []
+    },
+    "weezing": {
+        "level": 88,
+        "sets": []
+    },
+    "weezinggalar": {
+        "level": 86,
+        "sets": []
+    },
+    "rhydon": {
+        "level": 85,
+        "sets": []
+    },
+    "scyther": {
+        "level": 82,
+        "sets": []
+    },
+    "tauros": {
+        "level": 82,
+        "sets": []
+    },
+    "taurospaldeacombat": {
+        "level": 82,
+        "sets": []
+    },
+    "taurospaldeablaze": {
+        "level": 81,
+        "sets": []
+    },
+    "taurospaldeaaqua": {
+        "level": 81,
+        "sets": []
+    },
+    "gyarados": {
+        "level": 79,
+        "sets": []
+    },
+    "lapras": {
+        "level": 87,
+        "sets": []
+    },
+    "ditto": {
+        "level": 87,
+        "sets": []
+    },
+    "vaporeon": {
+        "level": 86,
+        "sets": []
+    },
+    "jolteon": {
+        "level": 84,
+        "sets": []
+    },
+    "flareon": {
+        "level": 90,
+        "sets": []
+    },
+    "snorlax": {
+        "level": 82,
+        "sets": []
+    },
+    "articuno": {
+        "level": 86,
+        "sets": []
+    },
+    "articunogalar": {
+        "level": 84,
+        "sets": []
+    },
+    "zapdos": {
+        "level": 78,
+        "sets": []
+    },
+    "zapdosgalar": {
+        "level": 77,
+        "sets": []
+    },
+    "moltres": {
+        "level": 81,
+        "sets": []
+    },
+    "moltresgalar": {
+        "level": 79,
+        "sets": []
+    },
+    "dragonite": {
+        "level": 74,
+        "sets": []
+    },
+    "mewtwo": {
+        "level": 72,
+        "sets": []
+    },
+    "mew": {
+        "level": 82,
+        "sets": []
+    },
+    "meganium": {
+        "level": 90,
+        "sets": []
+    },
+    "typhlosion": {
+        "level": 84,
+        "sets": []
+    },
+    "typhlosionhisui": {
+        "level": 83,
+        "sets": []
+    },
+    "feraligatr": {
+        "level": 79,
+        "sets": []
+    },
+    "furret": {
+        "level": 94,
+        "sets": []
+    },
+    "noctowl": {
+        "level": 95,
+        "sets": []
+    },
+    "ariados": {
+        "level": 95,
+        "sets": []
+    },
+    "lanturn": {
+        "level": 89,
+        "sets": []
+    },
+    "ampharos": {
+        "level": 88,
+        "sets": []
+    },
+    "bellossom": {
+        "level": 84,
+        "sets": []
+    },
+    "azumarill": {
+        "level": 82,
+        "sets": []
+    },
+    "sudowoodo": {
+        "level": 94,
+        "sets": []
+    },
+    "politoed": {
+        "level": 88,
+        "sets": []
+    },
+    "jumpluff": {
+        "level": 87,
+        "sets": []
+    },
+    "sunflora": {
+        "level": 100,
+        "sets": []
+    },
+    "quagsire": {
+        "level": 84,
+        "sets": []
+    },
+    "clodsire": {
+        "level": 81,
+        "sets": []
+    },
+    "espeon": {
+        "level": 84,
+        "sets": []
+    },
+    "umbreon": {
+        "level": 84,
+        "sets": []
+    },
+    "slowking": {
+        "level": 88,
+        "sets": []
+    },
+    "slowkinggalar": {
+        "level": 85,
+        "sets": []
+    },
+    "misdreavus": {
+        "level": 90,
+        "sets": []
+    },
+    "girafarig": {
+        "level": 89,
+        "sets": []
+    },
+    "forretress": {
+        "level": 84,
+        "sets": []
+    },
+    "dunsparce": {
+        "level": 86,
+        "sets": []
+    },
+    "granbull": {
+        "level": 88,
+        "sets": []
+    },
+    "qwilfish": {
+        "level": 86,
+        "sets": []
+    },
+    "qwilfishhisui": {
+        "level": 83,
+        "sets": []
+    },
+    "overqwil": {
+        "level": 82,
+        "sets": []
+    },
+    "scizor": {
+        "level": 79,
+        "sets": []
+    },
+    "heracross": {
+        "level": 80,
+        "sets": []
+    },
+    "ursaring": {
+        "level": 84,
+        "sets": []
+    },
+    "magcargo": {
+        "level": 95,
+        "sets": []
+    },
+    "piloswine": {
+        "level": 85,
+        "sets": []
+    },
+    "delibird": {
+        "level": 100,
+        "sets": []
+    },
+    "skarmory": {
+        "level": 80,
+        "sets": []
+    },
+    "houndoom": {
+        "level": 87,
+        "sets": []
+    },
+    "kingdra": {
+        "level": 84,
+        "sets": []
+    },
+    "donphan": {
+        "level": 84,
+        "sets": []
+    },
+    "porygon2": {
+        "level": 81,
+        "sets": []
+    },
+    "smeargle": {
+        "level": 95,
+        "sets": []
+    },
+    "hitmontop": {
+        "level": 88,
+        "sets": []
+    },
+    "chansey": {
+        "level": 85,
+        "sets": []
+    },
+    "blissey": {
+        "level": 85,
+        "sets": []
+    },
+    "raikou": {
+        "level": 81,
+        "sets": []
+    },
+    "entei": {
+        "level": 78,
+        "sets": []
+    },
+    "suicune": {
+        "level": 82,
+        "sets": []
+    },
+    "tyranitar": {
+        "level": 78,
+        "sets": []
+    },
+    "lugia": {
+        "level": 73,
+        "sets": []
+    },
+    "hooh": {
+        "level": 71,
+        "sets": []
+    },
+    "sceptile": {
+        "level": 87,
+        "sets": []
+    },
+    "blaziken": {
+        "level": 76,
+        "sets": []
+    },
+    "swampert": {
+        "level": 83,
+        "sets": []
+    },
+    "mightyena": {
+        "level": 96,
+        "sets": []
+    },
+    "ludicolo": {
+        "level": 90,
+        "sets": []
+    },
+    "shiftry": {
+        "level": 89,
+        "sets": []
+    },
+    "pelipper": {
+        "level": 86,
+        "sets": []
+    },
+    "gardevoir": {
+        "level": 83,
+        "sets": []
+    },
+    "masquerain": {
+        "level": 87,
+        "sets": []
+    },
+    "breloom": {
+        "level": 83,
+        "sets": []
+    },
+    "vigoroth": {
+        "level": 85,
+        "sets": []
+    },
+    "slaking": {
+        "level": 84,
+        "sets": []
+    },
+    "hariyama": {
+        "level": 87,
+        "sets": []
+    },
+    "sableye": {
+        "level": 88,
+        "sets": []
+    },
+    "medicham": {
+        "level": 86,
+        "sets": []
+    },
+    "plusle": {
+        "level": 95,
+        "sets": []
+    },
+    "minun": {
+        "level": 95,
+        "sets": []
+    },
+    "volbeat": {
+        "level": 90,
+        "sets": []
+    },
+    "illumise": {
+        "level": 91,
+        "sets": []
+    },
+    "swalot": {
+        "level": 90,
+        "sets": []
+    },
+    "camerupt": {
+        "level": 91,
+        "sets": []
+    },
+    "torkoal": {
+        "level": 88,
+        "sets": []
+    },
+    "grumpig": {
+        "level": 92,
+        "sets": []
+    },
+    "flygon": {
+        "level": 82,
+        "sets": []
+    },
+    "cacturne": {
+        "level": 92,
+        "sets": []
+    },
+    "altaria": {
+        "level": 89,
+        "sets": []
+    },
+    "zangoose": {
+        "level": 85,
+        "sets": []
+    },
+    "seviper": {
+        "level": 93,
+        "sets": []
+    },
+    "whiscash": {
+        "level": 88,
+        "sets": []
+    },
+    "crawdaunt": {
+        "level": 84,
+        "sets": []
+    },
+    "milotic": {
+        "level": 83,
+        "sets": []
+    },
+    "banette": {
+        "level": 93,
+        "sets": []
+    },
+    "tropius": {
+        "level": 91,
+        "sets": []
+    },
+    "chimecho": {
+        "level": 93,
+        "sets": []
+    },
+    "glalie": {
+        "level": 96,
+        "sets": []
+    },
+    "luvdisc": {
+        "level": 100,
+        "sets": []
+    },
+    "salamence": {
+        "level": 77,
+        "sets": []
+    },
+    "metagross": {
+        "level": 79,
+        "sets": []
+    },
+    "regirock": {
+        "level": 83,
+        "sets": []
+    },
+    "regice": {
+        "level": 88,
+        "sets": []
+    },
+    "registeel": {
+        "level": 81,
+        "sets": []
+    },
+    "latias": {
+        "level": 79,
+        "sets": []
+    },
+    "latios": {
+        "level": 78,
+        "sets": []
+    },
+    "kyogre": {
+        "level": 71,
+        "sets": []
+    },
+    "groudon": {
+        "level": 72,
+        "sets": []
+    },
+    "rayquaza": {
+        "level": 72,
+        "sets": []
+    },
+    "jirachi": {
+        "level": 80,
+        "sets": []
+    },
+    "deoxys": {
+        "level": 74,
+        "sets": []
+    },
+    "deoxysattack": {
+        "level": 72,
+        "sets": []
+    },
+    "deoxysdefense": {
+        "level": 84,
+        "sets": []
+    },
+    "deoxysspeed": {
+        "level": 82,
+        "sets": []
+    },
+    "torterra": {
+        "level": 78,
+        "sets": []
+    },
+    "infernape": {
+        "level": 82,
+        "sets": []
+    },
+    "empoleon": {
+        "level": 84,
+        "sets": []
+    },
+    "staraptor": {
+        "level": 79,
+        "sets": []
+    },
+    "kricketune": {
+        "level": 99,
+        "sets": []
+    },
+    "luxray": {
+        "level": 88,
+        "sets": []
+    },
+    "rampardos": {
+        "level": 90,
+        "sets": []
+    },
+    "bastiodon": {
+        "level": 89,
+        "sets": []
+    },
+    "vespiquen": {
+        "level": 99,
+        "sets": []
+    },
+    "pachirisu": {
+        "level": 96,
+        "sets": []
+    },
+    "floatzel": {
+        "level": 86,
+        "sets": []
+    },
+    "gastrodon": {
+        "level": 86,
+        "sets": []
+    },
+    "ambipom": {
+        "level": 84,
+        "sets": []
+    },
+    "drifblim": {
+        "level": 86,
+        "sets": []
+    },
+    "mismagius": {
+        "level": 86,
+        "sets": []
+    },
+    "honchkrow": {
+        "level": 86,
+        "sets": []
+    },
+    "skuntank": {
+        "level": 84,
+        "sets": []
+    },
+    "bronzong": {
+        "level": 88,
+        "sets": []
+    },
+    "spiritomb": {
+        "level": 89,
+        "sets": []
+    },
+    "garchomp": {
+        "level": 74,
+        "sets": []
+    },
+    "lucario": {
+        "level": 84,
+        "sets": []
+    },
+    "hippowdon": {
+        "level": 82,
+        "sets": []
+    },
+    "toxicroak": {
+        "level": 84,
+        "sets": []
+    },
+    "lumineon": {
+        "level": 93,
+        "sets": []
+    },
+    "abomasnow": {
+        "level": 84,
+        "sets": []
+    },
+    "weavile": {
+        "level": 79,
+        "sets": []
+    },
+    "sneasler": {
+        "level": 74,
+        "sets": []
+    },
+    "magnezone": {
+        "level": 85,
+        "sets": []
+    },
+    "rhyperior": {
+        "level": 82,
+        "sets": []
+    },
+    "electivire": {
+        "level": 84,
+        "sets": []
+    },
+    "magmortar": {
+        "level": 88,
+        "sets": []
+    },
+    "yanmega": {
+        "level": 82,
+        "sets": []
+    },
+    "leafeon": {
+        "level": 88,
+        "sets": []
+    },
+    "glaceon": {
+        "level": 94,
+        "sets": []
+    },
+    "gliscor": {
+        "level": 76,
+        "sets": []
+    },
+    "mamoswine": {
+        "level": 81,
+        "sets": []
+    },
+    "porygonz": {
+        "level": 83,
+        "sets": []
+    },
+    "gallade": {
+        "level": 80,
+        "sets": []
+    },
+    "probopass": {
+        "level": 92,
+        "sets": []
+    },
+    "dusknoir": {
+        "level": 89,
+        "sets": []
+    },
+    "froslass": {
+        "level": 87,
+        "sets": []
+    },
+    "rotom": {
+        "level": 88,
+        "sets": []
+    },
+    "rotomwash": {
+        "level": 83,
+        "sets": []
+    },
+    "rotomheat": {
+        "level": 83,
+        "sets": []
+    },
+    "rotomfrost": {
+        "level": 87,
+        "sets": []
+    },
+    "rotomfan": {
+        "level": 86,
+        "sets": []
+    },
+    "rotommow": {
+        "level": 87,
+        "sets": []
+    },
+    "uxie": {
+        "level": 83,
+        "sets": []
+    },
+    "mesprit": {
+        "level": 85,
+        "sets": []
+    },
+    "azelf": {
+        "level": 82,
+        "sets": []
+    },
+    "dialga": {
+        "level": 73,
+        "sets": []
+    },
+    "dialgaorigin": {
+        "level": 73,
+        "sets": []
+    },
+    "palkia": {
+        "level": 75,
+        "sets": []
+    },
+    "palkiaorigin": {
+        "level": 72,
+        "sets": []
+    },
+    "heatran": {
+        "level": 79,
+        "sets": []
+    },
+    "regigigas": {
+        "level": 84,
+        "sets": []
+    },
+    "giratina": {
+        "level": 75,
+        "sets": []
+    },
+    "giratinaorigin": {
+        "level": 72,
+        "sets": []
+    },
+    "cresselia": {
+        "level": 80,
+        "sets": []
+    },
+    "phione": {
+        "level": 91,
+        "sets": []
+    },
+    "manaphy": {
+        "level": 78,
+        "sets": []
+    },
+    "darkrai": {
+        "level": 77,
+        "sets": []
+    },
+    "shaymin": {
+        "level": 82,
+        "sets": []
+    },
+    "shayminsky": {
+        "level": 73,
+        "sets": []
+    },
+    "arceus": {
+        "level": 68,
+        "sets": []
+    },
+    "arceusbug": {
+        "level": 73,
+        "sets": []
+    },
+    "arceusdark": {
+        "level": 71,
+        "sets": []
+    },
+    "arceusdragon": {
+        "level": 71,
+        "sets": []
+    },
+    "arceuselectric": {
+        "level": 70,
+        "sets": []
+    },
+    "arceusfairy": {
+        "level": 69,
+        "sets": []
+    },
+    "arceusfighting": {
+        "level": 70,
+        "sets": []
+    },
+    "arceusfire": {
+        "level": 72,
+        "sets": []
+    },
+    "arceusflying": {
+        "level": 69,
+        "sets": []
+    },
+    "arceusghost": {
+        "level": 69,
+        "sets": []
+    },
+    "arceusgrass": {
+        "level": 72,
+        "sets": []
+    },
+    "arceusground": {
+        "level": 70,
+        "sets": []
+    },
+    "arceusice": {
+        "level": 72,
+        "sets": []
+    },
+    "arceuspoison": {
+        "level": 70,
+        "sets": []
+    },
+    "arceuspsychic": {
+        "level": 69,
+        "sets": []
+    },
+    "arceusrock": {
+        "level": 74,
+        "sets": []
+    },
+    "arceussteel": {
+        "level": 70,
+        "sets": []
+    },
+    "arceuswater": {
+        "level": 71,
+        "sets": []
+    },
+    "serperior": {
+        "level": 79,
+        "sets": []
+    },
+    "emboar": {
+        "level": 84,
+        "sets": []
+    },
+    "samurott": {
+        "level": 88,
+        "sets": []
+    },
+    "samurotthisui": {
+        "level": 77,
+        "sets": []
+    },
+    "zebstrika": {
+        "level": 87,
+        "sets": []
+    },
+    "excadrill": {
+        "level": 79,
+        "sets": []
+    },
+    "gurdurr": {
+        "level": 85,
+        "sets": []
+    },
+    "conkeldurr": {
+        "level": 80,
+        "sets": []
+    },
+    "leavanny": {
+        "level": 86,
+        "sets": []
+    },
+    "whimsicott": {
+        "level": 84,
+        "sets": []
+    },
+    "lilligant": {
+        "level": 86,
+        "sets": []
+    },
+    "lilliganthisui": {
+        "level": 79,
+        "sets": []
+    },
+    "basculin": {
+        "level": 86,
+        "sets": []
+    },
+    "basculegion": {
+        "level": 80,
+        "sets": []
+    },
+    "basculegionf": {
+        "level": 83,
+        "sets": []
+    },
+    "krookodile": {
+        "level": 80,
+        "sets": []
+    },
+    "scrafty": {
+        "level": 84,
+        "sets": []
+    },
+    "zoroark": {
+        "level": 83,
+        "sets": []
+    },
+    "zoroarkhisui": {
+        "level": 80,
+        "sets": []
+    },
+    "cinccino": {
+        "level": 83,
+        "sets": []
+    },
+    "gothitelle": {
+        "level": 90,
+        "sets": []
+    },
+    "reuniclus": {
+        "level": 88,
+        "sets": []
+    },
+    "swanna": {
+        "level": 89,
+        "sets": []
+    },
+    "sawsbuck": {
+        "level": 88,
+        "sets": []
+    },
+    "amoonguss": {
+        "level": 82,
+        "sets": []
+    },
+    "alomomola": {
+        "level": 87,
+        "sets": []
+    },
+    "galvantula": {
+        "level": 82,
+        "sets": []
+    },
+    "eelektross": {
+        "level": 87,
+        "sets": []
+    },
+    "chandelure": {
+        "level": 83,
+        "sets": []
+    },
+    "haxorus": {
+        "level": 77,
+        "sets": []
+    },
+    "beartic": {
+        "level": 91,
+        "sets": []
+    },
+    "cryogonal": {
+        "level": 89,
+        "sets": []
+    },
+    "mienshao": {
+        "level": 83,
+        "sets": []
+    },
+    "golurk": {
+        "level": 87,
+        "sets": []
+    },
+    "bisharp": {
+        "level": 79,
+        "sets": []
+    },
+    "braviary": {
+        "level": 85,
+        "sets": []
+    },
+    "braviaryhisui": {
+        "level": 85,
+        "sets": []
+    },
+    "mandibuzz": {
+        "level": 85,
+        "sets": []
+    },
+    "hydreigon": {
+        "level": 79,
+        "sets": []
+    },
+    "volcarona": {
+        "level": 77,
+        "sets": []
+    },
+    "cobalion": {
+        "level": 80,
+        "sets": []
+    },
+    "terrakion": {
+        "level": 79,
+        "sets": []
+    },
+    "virizion": {
+        "level": 82,
+        "sets": []
+    },
+    "tornadus": {
+        "level": 82,
+        "sets": []
+    },
+    "tornadustherian": {
+        "level": 79,
+        "sets": []
+    },
+    "thundurus": {
+        "level": 80,
+        "sets": []
+    },
+    "thundurustherian": {
+        "level": 80,
+        "sets": []
+    },
+    "reshiram": {
+        "level": 76,
+        "sets": []
+    },
+    "zekrom": {
+        "level": 71,
+        "sets": []
+    },
+    "landorus": {
+        "level": 75,
+        "sets": []
+    },
+    "landorustherian": {
+        "level": 76,
+        "sets": []
+    },
+    "kyurem": {
+        "level": 77,
+        "sets": []
+    },
+    "kyuremwhite": {
+        "level": 73,
+        "sets": []
+    },
+    "kyuremblack": {
+        "level": 71,
+        "sets": []
+    },
+    "keldeoresolute": {
+        "level": 79,
+        "sets": []
+    },
+    "meloetta": {
+        "level": 82,
+        "sets": []
+    },
+    "chesnaught": {
+        "level": 84,
+        "sets": []
+    },
+    "delphox": {
+        "level": 84,
+        "sets": []
+    },
+    "greninja": {
+        "level": 80,
+        "sets": []
+    },
+    "greninjabond": {
+        "level": 80,
+        "sets": []
+    },
+    "talonflame": {
+        "level": 83,
+        "sets": []
+    },
+    "vivillon": {
+        "level": 83,
+        "sets": []
+    },
+    "pyroar": {
+        "level": 88,
+        "sets": []
+    },
+    "florges": {
+        "level": 85,
+        "sets": []
+    },
+    "gogoat": {
+        "level": 88,
+        "sets": []
+    },
+    "meowstic": {
+        "level": 89,
+        "sets": []
+    },
+    "meowsticf": {
+        "level": 89,
+        "sets": []
+    },
+    "malamar": {
+        "level": 82,
+        "sets": []
+    },
+    "dragalge": {
+        "level": 88,
+        "sets": []
+    },
+    "clawitzer": {
+        "level": 87,
+        "sets": []
+    },
+    "sylveon": {
+        "level": 85,
+        "sets": []
+    },
+    "hawlucha": {
+        "level": 80,
+        "sets": []
+    },
+    "dedenne": {
+        "level": 88,
+        "sets": []
+    },
+    "carbink": {
+        "level": 90,
+        "sets": []
+    },
+    "goodra": {
+        "level": 85,
+        "sets": []
+    },
+    "goodrahisui": {
+        "level": 82,
+        "sets": []
+    },
+    "klefki": {
+        "level": 84,
+        "sets": []
+    },
+    "trevenant": {
+        "level": 89,
+        "sets": []
+    },
+    "avalugg": {
+        "level": 88,
+        "sets": []
+    },
+    "avalugghisui": {
+        "level": 90,
+        "sets": []
+    },
+    "noivern": {
+        "level": 82,
+        "sets": []
+    },
+    "diancie": {
+        "level": 82,
+        "sets": []
+    },
+    "hoopa": {
+        "level": 85,
+        "sets": []
+    },
+    "hoopaunbound": {
+        "level": 80,
+        "sets": []
+    },
+    "volcanion": {
+        "level": 79,
+        "sets": []
+    },
+    "decidueye": {
+        "level": 88,
+        "sets": []
+    },
+    "decidueyehisui": {
+        "level": 87,
+        "sets": []
+    },
+    "incineroar": {
+        "level": 82,
+        "sets": []
+    },
+    "primarina": {
+        "level": 83,
+        "sets": []
+    },
+    "toucannon": {
+        "level": 88,
+        "sets": []
+    },
+    "gumshoos": {
+        "level": 95,
+        "sets": []
+    },
+    "vikavolt": {
+        "level": 83,
+        "sets": []
+    },
+    "crabominable": {
+        "level": 90,
+        "sets": []
+    },
+    "oricorio": {
+        "level": 84,
+        "sets": []
+    },
+    "oricoriopompom": {
+        "level": 82,
+        "sets": []
+    },
+    "oricoriopau": {
+        "level": 87,
+        "sets": []
+    },
+    "oricoriosensu": {
+        "level": 85,
+        "sets": []
+    },
+    "ribombee": {
+        "level": 83,
+        "sets": []
+    },
+    "lycanroc": {
+        "level": 86,
+        "sets": []
+    },
+    "lycanrocmidnight": {
+        "level": 89,
+        "sets": []
+    },
+    "lycanrocdusk": {
+        "level": 81,
+        "sets": []
+    },
+    "toxapex": {
+        "level": 82,
+        "sets": []
+    },
+    "mudsdale": {
+        "level": 83,
+        "sets": []
+    },
+    "araquanid": {
+        "level": 82,
+        "sets": []
+    },
+    "lurantis": {
+        "level": 87,
+        "sets": []
+    },
+    "salazzle": {
+        "level": 83,
+        "sets": []
+    },
+    "tsareena": {
+        "level": 87,
+        "sets": []
+    },
+    "comfey": {
+        "level": 85,
+        "sets": []
+    },
+    "oranguru": {
+        "level": 92,
+        "sets": []
+    },
+    "passimian": {
+        "level": 83,
+        "sets": []
+    },
+    "palossand": {
+        "level": 89,
+        "sets": []
+    },
+    "minior": {
+        "level": 79,
+        "sets": []
+    },
+    "komala": {
+        "level": 89,
+        "sets": []
+    },
+    "mimikyu": {
+        "level": 79,
+        "sets": []
+    },
+    "bruxish": {
+        "level": 85,
+        "sets": []
+    },
+    "kommoo": {
+        "level": 78,
+        "sets": []
+    },
+    "solgaleo": {
+        "level": 74,
+        "sets": []
+    },
+    "lunala": {
+        "level": 70,
+        "sets": []
+    },
+    "necrozma": {
+        "level": 80,
+        "sets": []
+    },
+    "necrozmaduskmane": {
+        "level": 69,
+        "sets": []
+    },
+    "necrozmadawnwings": {
+        "level": 76,
+        "sets": []
+    },
+    "magearna": {
+        "level": 77,
+        "sets": []
+    },
+    "rillaboom": {
+        "level": 79,
+        "sets": []
+    },
+    "cinderace": {
+        "level": 77,
+        "sets": []
+    },
+    "inteleon": {
+        "level": 81,
+        "sets": []
+    },
+    "greedent": {
+        "level": 86,
+        "sets": []
+    },
+    "corviknight": {
+        "level": 80,
+        "sets": []
+    },
+    "drednaw": {
+        "level": 81,
+        "sets": []
+    },
+    "coalossal": {
+        "level": 89,
+        "sets": []
+    },
+    "flapple": {
+        "level": 88,
+        "sets": []
+    },
+    "appletun": {
+        "level": 92,
+        "sets": []
+    },
+    "sandaconda": {
+        "level": 84,
+        "sets": []
+    },
+    "cramorant": {
+        "level": 86,
+        "sets": []
+    },
+    "barraskewda": {
+        "level": 81,
+        "sets": []
+    },
+    "toxtricity": {
+        "level": 82,
+        "sets": []
+    },
+    "polteageist": {
+        "level": 78,
+        "sets": []
+    },
+    "hatterene": {
+        "level": 85,
+        "sets": []
+    },
+    "grimmsnarl": {
+        "level": 83,
+        "sets": []
+    },
+    "perrserker": {
+        "level": 89,
+        "sets": []
+    },
+    "alcremie": {
+        "level": 88,
+        "sets": []
+    },
+    "falinks": {
+        "level": 84,
+        "sets": []
+    },
+    "pincurchin": {
+        "level": 100,
+        "sets": []
+    },
+    "frosmoth": {
+        "level": 82,
+        "sets": []
+    },
+    "stonjourner": {
+        "level": 91,
+        "sets": []
+    },
+    "eiscue": {
+        "level": 88,
+        "sets": []
+    },
+    "indeedee": {
+        "level": 84,
+        "sets": []
+    },
+    "indeedeef": {
+        "level": 90,
+        "sets": []
+    },
+    "morpeko": {
+        "level": 88,
+        "sets": []
+    },
+    "copperajah": {
+        "level": 86,
+        "sets": []
+    },
+    "duraludon": {
+        "level": 82,
+        "sets": []
+    },
+    "dragapult": {
+        "level": 77,
+        "sets": []
+    },
+    "zacian": {
+        "level": 69,
+        "sets": []
+    },
+    "zaciancrowned": {
+        "level": 64,
+        "sets": []
+    },
+    "zamazenta": {
+        "level": 71,
+        "sets": []
+    },
+    "zamazentacrowned": {
+        "level": 68,
+        "sets": []
+    },
+    "eternatus": {
+        "level": 69,
+        "sets": []
+    },
+    "urshifu": {
+        "level": 74,
+        "sets": []
+    },
+    "urshifurapidstrike": {
+        "level": 75,
+        "sets": []
+    },
+    "zarude": {
+        "level": 77,
+        "sets": []
+    },
+    "regieleki": {
+        "level": 79,
+        "sets": []
+    },
+    "regidrago": {
+        "level": 77,
+        "sets": []
+    },
+    "glastrier": {
+        "level": 86,
+        "sets": []
+    },
+    "spectrier": {
+        "level": 75,
+        "sets": []
+    },
+    "calyrex": {
+        "level": 93,
+        "sets": []
+    },
+    "calyrexice": {
+        "level": 72,
+        "sets": []
+    },
+    "calyrexshadow": {
+        "level": 64,
+        "sets": []
+    },
+    "wyrdeer": {
+        "level": 87,
+        "sets": []
+    },
+    "kleavor": {
+        "level": 78,
+        "sets": []
+    },
+    "ursaluna": {
+        "level": 79,
+        "sets": []
+    },
+    "ursalunabloodmoon": {
+        "level": 79,
+        "sets": []
+    },
+    "enamorus": {
+        "level": 79,
+        "sets": []
+    },
+    "enamorustherian": {
+        "level": 83,
+        "sets": []
+    },
+    "meowscarada": {
+        "level": 78,
+        "sets": []
+    },
+    "skeledirge": {
+        "level": 79,
+        "sets": []
+    },
+    "quaquaval": {
+        "level": 79,
+        "sets": []
+    },
+    "oinkologne": {
+        "level": 92,
+        "sets": []
+    },
+    "oinkolognef": {
+        "level": 92,
+        "sets": []
+    },
+    "spidops": {
+        "level": 96,
+        "sets": []
+    },
+    "lokix": {
+        "level": 82,
+        "sets": []
+    },
+    "pawmot": {
+        "level": 80,
+        "sets": []
+    },
+    "maushold": {
+        "level": 76,
+        "sets": []
+    },
+    "dachsbun": {
+        "level": 92,
+        "sets": []
+    },
+    "arboliva": {
+        "level": 91,
+        "sets": []
+    },
+    "squawkabilly": {
+        "level": 85,
+        "sets": []
+    },
+    "squawkabillywhite": {
+        "level": 89,
+        "sets": []
+    },
+    "squawkabillyblue": {
+        "level": 85,
+        "sets": []
+    },
+    "squawkabillyyellow": {
+        "level": 89,
+        "sets": []
+    },
+    "garganacl": {
+        "level": 80,
+        "sets": []
+    },
+    "armarouge": {
+        "level": 80,
+        "sets": []
+    },
+    "ceruledge": {
+        "level": 78,
+        "sets": []
+    },
+    "bellibolt": {
+        "level": 84,
+        "sets": []
+    },
+    "kilowattrel": {
+        "level": 83,
+        "sets": []
+    },
+    "mabosstiff": {
+        "level": 86,
+        "sets": []
+    },
+    "grafaiai": {
+        "level": 86,
+        "sets": []
+    },
+    "brambleghast": {
+        "level": 88,
+        "sets": []
+    },
+    "toedscruel": {
+        "level": 87,
+        "sets": []
+    },
+    "klawf": {
+        "level": 90,
+        "sets": []
+    },
+    "scovillain": {
+        "level": 91,
+        "sets": []
+    },
+    "rabsca": {
+        "level": 91,
+        "sets": []
+    },
+    "espathra": {
+        "level": 80,
+        "sets": []
+    },
+    "tinkaton": {
+        "level": 82,
+        "sets": []
+    },
+    "wugtrio": {
+        "level": 91,
+        "sets": []
+    },
+    "bombirdier": {
+        "level": 85,
+        "sets": []
+    },
+    "palafin": {
+        "level": 77,
+        "sets": []
+    },
+    "revavroom": {
+        "level": 79,
+        "sets": []
+    },
+    "cyclizar": {
+        "level": 83,
+        "sets": []
+    },
+    "orthworm": {
+        "level": 88,
+        "sets": []
+    },
+    "glimmora": {
+        "level": 75,
+        "sets": []
+    },
+    "houndstone": {
+        "level": 86,
+        "sets": []
+    },
+    "flamigo": {
+        "level": 82,
+        "sets": []
+    },
+    "cetitan": {
+        "level": 82,
+        "sets": []
+    },
+    "veluza": {
+        "level": 85,
+        "sets": []
+    },
+    "dondozo": {
+        "level": 78,
+        "sets": []
+    },
+    "tatsugiri": {
+        "level": 87,
+        "sets": []
+    },
+    "farigiraf": {
+        "level": 91,
+        "sets": []
+    },
+    "dudunsparce": {
+        "level": 83,
+        "sets": []
+    },
+    "kingambit": {
+        "level": 74,
+        "sets": []
+    },
+    "greattusk": {
+        "level": 77,
+        "sets": []
+    },
+    "brutebonnet": {
+        "level": 81,
+        "sets": []
+    },
+    "sandyshocks": {
+        "level": 80,
+        "sets": []
+    },
+    "screamtail": {
+        "level": 84,
+        "sets": []
+    },
+    "fluttermane": {
+        "level": 74,
+        "sets": []
+    },
+    "slitherwing": {
+        "level": 81,
+        "sets": []
+    },
+    "roaringmoon": {
+        "level": 72,
+        "sets": []
+    },
+    "walkingwake": {
+        "level": 79,
+        "sets": []
+    },
+    "irontreads": {
+        "level": 77,
+        "sets": []
+    },
+    "ironmoth": {
+        "level": 78,
+        "sets": []
+    },
+    "ironhands": {
+        "level": 79,
+        "sets": []
+    },
+    "ironjugulis": {
+        "level": 78,
+        "sets": []
+    },
+    "ironthorns": {
+        "level": 83,
+        "sets": []
+    },
+    "ironbundle": {
+        "level": 77,
+        "sets": []
+    },
+    "ironvaliant": {
+        "level": 78,
+        "sets": []
+    },
+    "ironleaves": {
+        "level": 80,
+        "sets": []
+    },
+    "baxcalibur": {
+        "level": 75,
+        "sets": []
+    },
+    "gholdengo": {
+        "level": 77,
+        "sets": []
+    },
+    "tinglu": {
+        "level": 78,
+        "sets": []
+    },
+    "chienpao": {
+        "level": 72,
+        "sets": []
+    },
+    "wochien": {
+        "level": 83,
+        "sets": []
+    },
+    "chiyu": {
+        "level": 77,
+        "sets": []
+    },
+    "koraidon": {
+        "level": 64,
+        "sets": []
+    },
+    "miraidon": {
+        "level": 65,
+        "sets": []
+    },
+    "dipplin": {
+        "level": 88,
+        "sets": []
+    },
+    "sinistcha": {
+        "level": 83,
+        "sets": []
+    },
+    "okidogi": {
+        "level": 77,
+        "sets": []
+    },
+    "munkidori": {
+        "level": 79,
+        "sets": []
+    },
+    "fezandipiti": {
+        "level": 82,
+        "sets": []
+    },
+    "ogerpon": {
+        "level": 80,
+        "sets": []
+    },
+    "ogerponwellspring": {
+        "level": 76,
+        "sets": []
+    },
+    "ogerponhearthflame": {
+        "level": 74,
+        "sets": []
+    },
+    "ogerponcornerstone": {
+        "level": 76,
+        "sets": []
+    },
+    "archaludon": {
+        "level": 78,
+        "sets": []
+    },
+    "hydrapple": {
+        "level": 83,
+        "sets": []
+    },
+    "gougingfire": {
+        "level": 74,
+        "sets": []
+    },
+    "ragingbolt": {
+        "level": 78,
+        "sets": []
+    },
+    "ironboulder": {
+        "level": 77,
+        "sets": []
+    },
+    "ironcrown": {
+        "level": 78,
+        "sets": []
+    },
+    "terapagos": {
+        "level": 77,
+        "sets": []
+    },
+    "pecharunt": {
+        "level": 77,
+        "sets": []
+    }
+}
